@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity 0.8.7;
 
 // There are three types of variables in solidity
 // local, state and global

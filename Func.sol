@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity 0.8.7;
 
 contract FunctionIntro {
     // external means it can be called when deployed

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity 0.8.7;
 
 // global varibables store information such as
 // blockchain, transaction and the account that called the function
